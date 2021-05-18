@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WJCHumble)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WJCHumble)](https://github.com/WJCHumble)
 
 ## Hi there 👋
 
