@@ -9,7 +9,7 @@ I'm Wu liu, a front-end development engineer who wants to change something.
 
 <img align="left" src="https://img.shields.io/badge/vite%20-%23232F3E.svg?logo=vite">
 
-<img align="left" src="https://img.shields.io/badge/wepack%20-%23232F3E.svg?logo=webpack">
+<img align="left" src="https://img.shields.io/badge/webpack%20-%23232F3E.svg?logo=webpack">
 
 <img align="left" src="https://img.shields.io/badge/babel%20-%23232F3E.svg?logo=babel">
 
