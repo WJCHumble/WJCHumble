@@ -5,17 +5,17 @@ I'm Wu liu, a front-end development engineer who wants to change something.
 
 **Languages and Tools:**
 
-<img align="left" src="https://img.shields.io/badge/vue%20-%23232F3E.svg?logo=vue.js"> 
+<img align="left" src="https://img.shields.io/badge/Vue%20-%23232F3E.svg?logo=vue.js"> 
 
-<img align="left" src="https://img.shields.io/badge/vite%20-%23232F3E.svg?logo=vite">
+<img align="left" src="https://img.shields.io/badge/Vite%20-%23232F3E.svg?logo=vite">
 
-<img align="left" src="https://img.shields.io/badge/webpack%20-%23232F3E.svg?logo=webpack">
+<img align="left" src="https://img.shields.io/badge/Webpack%20-%23232F3E.svg?logo=webpack">
 
-<img align="left" src="https://img.shields.io/badge/babel%20-%23232F3E.svg?logo=babel">
+<img align="left" src="https://img.shields.io/badge/Babel%20-%23232F3E.svg?logo=babel">
 
-<img align="left" src="https://img.shields.io/badge/postcss%20-%23232F3E.svg?logo=postcss">
+<img align="left" src="https://img.shields.io/badge/Postcss%20-%23232F3E.svg?logo=postcss">
 
-<img align="left" src="https://img.shields.io/badge/golang%20-%23232F3E.svg?logo=go">
+<img align="left" src="https://img.shields.io/badge/Golang%20-%23232F3E.svg?logo=go">
 
 <br/>
 <br/>
