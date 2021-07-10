@@ -5,6 +5,8 @@ on:
       # 每 6 小时
     - cron: "0 */6 * * *"
     
+  workflow_dispatch:
+    
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
