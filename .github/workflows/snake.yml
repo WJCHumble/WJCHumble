@@ -2,15 +2,15 @@ name: generate-snake
 
 on:
   schedule:
-      # 每 6 小时
+    # 每 6 小时
     - cron: "0 */6 * * *"
-    
+
   workflow_dispatch:
-    
+
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    steps: 
+    steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
         with:
@@ -22,9 +22,9 @@ jobs:
 
           # 生成的 .gif 图存储的位置
           svg_out_path: dist/github-snake.svg
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES
